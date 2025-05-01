@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amith Manoj Andrews</h1>
 <h3 align="center">A data science and analytics enthusiast from India, sharing projects focused on data analysis, machine learning, and visualisation</h3>
 
-- 🌱 I’m currently learning **Machine Learning, Tableau, PowerBI**
+- 🌱 I’m currently learning **Data Science and Analytics**
 
 - 👨‍💻 All of my projects are available at [https://amithmanoj99.wixsite.com/portfolio](https://amithmanoj99.wixsite.com/portfolio)
 
